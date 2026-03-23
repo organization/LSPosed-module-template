@@ -1,5 +1,5 @@
 plugins {
-    id("com.android.application") version "8.5.1" apply false
+    id("com.android.application") version "9.1.0" apply false
 }
 
 tasks.register<Delete>("clean") {
